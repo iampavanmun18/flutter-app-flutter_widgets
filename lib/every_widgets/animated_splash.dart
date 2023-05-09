@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:the_widgets/every_widgets/animated_align.dart';
 
 
-class Widget007 extends StatelessWidget {
-  const Widget007({super.key});
+class Widget000 extends StatelessWidget {
+  const Widget000({super.key});
 
   // This widget is the root of your application.
   @override
