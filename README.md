@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Credit
 Flutter Team and the Widget catalog.
 
@@ -15,3 +16,6 @@ Thank you for the support!
 I like you!
 Best regards,
 Flutter Mapp
+=======
+# flutter-app-flutter_widgets
+>>>>>>> 86123d780ed25a5b8d39f1755347291a34574cde
